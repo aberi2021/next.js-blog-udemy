@@ -38,6 +38,15 @@ export default function Home({ allPostsData }) {
         <p>
           私はコーダーです。ウェブアクセシビリティに興味があります。Next.jsを勉強しています。
         </p>
+        <p className={utilstyles.paragrafMd}>
+          このサイトはUdemyの
+          <a href="https://www.udemy.com/course/nextjs-microblog-for-beginner/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.JA_cc.JP&utm_content=deal4584&utm_term=_._ag_107181210924_._ad_452531407122_._kw__._de_c_._dm__._pl__._ti_dsa-930814701079_._li_9166161_._pd__._&matchtype=&gclid=CjwKCAjwhdWkBhBZEiwA1ibLmOaBPhE0kMloE-3xHy8L_piYoF3XbN8H7UOPfF0VtoraUxKibVl-1xoCuTcQAvD_BwE">
+            【Next.js入門】ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座
+          </a>
+          の勉強用です。
+          <br />
+          写真や文章は講座で提供されたものです。
+        </p>
       </section>
       <section className={utilstyles.headingMd}>
         <h2>📝エンジニアのブログ</h2>
